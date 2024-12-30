@@ -46,7 +46,7 @@ This project provided hands-on experience with serverless architecture, showcasi
 
 ---
 
-##Future Scope
+## Future Scope
 - Integrate advanced AWS services like DynamoDB for data persistence.
 - Implement monitoring tools such as AWS CloudWatch for enhanced performance tracking.
 - Expand serverless workflows with AWS Step Functions for complex application orchestration.
